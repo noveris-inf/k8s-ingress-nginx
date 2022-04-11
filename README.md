@@ -1,1 +1,1 @@
-# k8s-ingress-nginx
+# kustomize-ingress-nginx
